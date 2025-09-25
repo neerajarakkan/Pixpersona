@@ -91,7 +91,7 @@ body {
 }
 
 .main-content h1 {
-  font-size: clamp(2rem, 6vw, 4rem); /* scales with screen */
+  font-size: clamp(2rem, 6vw, 4rem);
   background: linear-gradient(to right, #00c6ff,#93d2e4, #00c6ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
